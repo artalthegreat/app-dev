@@ -2,7 +2,7 @@
 
 <h1><strong>Information About My Favorite Series/Movie.</strong></h1>
 
-1. <h3><strong>Game of Thrones<<h3><strong>
+1. <h3><strong>Game of Thrones<h3><strong>
 > <h4><strong>"Game of Thrones" is an epic fantasy TV series based on George R.R. Martin's "A Song of Ice and Fire" book series, set in the fictional world of Westeros and Essos, where noble families fight for control of the Iron Throne amidst political intrigue, betrayal, and a looming supernatural threat.</strong></h4>
 ![got](https://i.pinimg.com/originals/f3/eb/65/f3eb65e961366ee8a3a0eec968436422.jpg)
 
